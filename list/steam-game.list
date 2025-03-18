@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,photonengine.io,PROXY
+DOMAIN,ns.photonengine.io,PROXY
+DST-PORT,5058,PROXY
