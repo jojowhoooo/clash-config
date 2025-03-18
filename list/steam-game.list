@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,photonengine.io,PROXY
-DOMAIN,ns.photonengine.io,PROXY
-DST-PORT,5058,PROXY
-DOMAIN-SUFFIX,lucid11.com,PROXY
+DOMAIN-SUFFIX,photonengine.io
+DOMAIN,ns.photonengine.io
+DST-PORT,5058
+DOMAIN-SUFFIX,lucid11.com
